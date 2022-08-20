@@ -1,12 +1,12 @@
 # Hi Buddy!! Welcome 👋
 
-## Project Name: Food Restaurant Home Page
+## Project Name: Saas Landing Page
 
 ---
 
 ### Project Descripttion
 
-> **In this project I have created a Food Restaurant Home Page from scratch**
+> **In this project I have created a Saas Landing Page from scratch**
 
 ---
 
@@ -40,4 +40,4 @@
 
 ## Project Screenshot
 
-> ![Food Restaurant Home Page](Capture.PNG)
+> ![Saas Landing Page](https://user-images.githubusercontent.com/50038188/185726232-72346e5b-9aad-4931-ae57-6b27f3f16590.png)
